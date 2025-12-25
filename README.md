@@ -30,6 +30,10 @@ Projeyi bilgisayarınıza klonlayın ve gerekli bağımlılıkları indirin:
 
 
 git clone https://github.com/ferhatoozdemir14-dot/thor-scraper.git
+
 cd thor-scraper
+
 go mod tidy
+
 go run main.go <dosya_adi>
+
