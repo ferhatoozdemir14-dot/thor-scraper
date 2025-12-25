@@ -12,8 +12,12 @@ Programı çalıştırırken taramak istediğiniz dosyanın yolunu parametre ola
 
 go run main.go <dosya_adi>
 
+
+
 Örnekler:
+
 go run main.go targets.yaml
+
 go run main.go siteler.txt
 
 ## 🚀 Özellikler
@@ -36,4 +40,5 @@ cd thor-scraper
 go mod tidy
 
 go run main.go <dosya_adi>
+
 
